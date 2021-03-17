@@ -1,3 +1,8 @@
+//计算题例 10
+//         20
+//         30
+//得到2929
+
 #include<stdio.h>
 int a_sum(int x)
 {
