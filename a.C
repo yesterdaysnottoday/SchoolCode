@@ -43,4 +43,7 @@ int main(void)
 	sum = a_sum(a)+b_sum(b)+c_sum(c);
 	printf("%.0lf\n",sum);
 	return 0;
-}
+}//计算题10
+//       20
+//       30
+//得到2929
